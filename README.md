@@ -1,0 +1,2 @@
+# samplechat
+Pythonによるチャットプログラム（サンプル用）
